@@ -24,6 +24,18 @@ body {
     margin-right: 16px;
 }
 
+.icon.active {
+    transform: rotate(-180deg);
+}
+
 .answers {
     color: #666;
+    /* collapse answer: */
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.answers.active {
+    max-height: fit-content                                         ;
 }
