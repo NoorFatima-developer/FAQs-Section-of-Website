@@ -1,7 +1,7 @@
-const accordian = document.querySelectorAll('.accordian');
+const accordion = document.querySelectorAll('.accordian');
 
-accordian.forEach(accordian => {
-    const icon = document.querySelector('.icon');
-    const answer = document.querySelector('.answers');
+accordion.forEach(accordian => {
+    const icon = accordian.querySelector('.icon');
+    const answer = accordian.querySelector('.answers');
 
 })
