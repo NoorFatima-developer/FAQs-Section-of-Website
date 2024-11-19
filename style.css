@@ -13,6 +13,16 @@ body {
     box-shadow: 1px 1px 5px rgb(255, 205, 255);
 }
 
-.question {
-    
+.questions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon {
+    margin-right: 16px;
+}
+
+.answers {
+    color: #666;
 }
