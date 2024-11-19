@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(255, 215, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    line-height: 1.6rem;
+}
+
+.accordian {
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 4px 16px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px rgb(255, 205, 255);
+}
+
+.question {
+    
+}
