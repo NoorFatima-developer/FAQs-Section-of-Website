@@ -17,5 +17,15 @@ accordion.forEach(accordian => {
             answer.style.maxHeight = answer.scrollHeight + 'px';    //scroll gives integer value, that's why use px, it will convert value to integer...
         }
        
+        else{
+            icon.classList.add('active');
+            answer.style.maxHeight = answer.scrollHeight + 'px';    //scroll gives integer value, that's why use px, it will convert value to integer...
+        }
+       
+        else{
+            icon.classList.add('active');
+            answer.style.maxHeight = answer.scrollHeight + 'px';    //scroll gives integer value, that's why use px, it will convert value to integer...
+        }
+       
     })
 })
