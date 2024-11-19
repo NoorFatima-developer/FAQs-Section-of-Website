@@ -7,7 +7,7 @@ body {
 
 .accordian {
     margin-bottom: 20px;
-    background-color: white;
+    background-color: rgb(34, 124, 131);
     padding: 4px 16px;
     border-radius: 4px;
     box-shadow: 1px 1px 5px rgb(255, 205, 255);
@@ -15,7 +15,7 @@ body {
 }
 
 h2 {
-    color: white;
+    color: rgb(198, 191, 191);
 
 }
 .questions {
@@ -34,7 +34,7 @@ h2 {
 }
 
 .answers {
-    color: #666;
+    color: #a40000;
     /* collapse answer: */
     max-height: 0;
     overflow: hidden;
