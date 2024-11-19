@@ -22,6 +22,7 @@ body {
 
 .icon {
     margin-right: 16px;
+    transition: 0.2s ease;
 }
 
 .icon.active {
@@ -36,6 +37,6 @@ body {
     /* transition: max-height 0.3s ease-in-out; */
 }
 
-.answers.active {
+/* .answers.active {
     max-height: fit-content;                                        ;
-}
+} */
