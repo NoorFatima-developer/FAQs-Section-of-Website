@@ -11,10 +11,6 @@ accordion.forEach(accordian => {
         if(icon.classList.contains('active')){
             icon.classList.remove('active');
             answer.style.maxHeight = null;
-
-        if(icon.classList.contains('active')){
-            icon.classList.remove('active');
-            answer.style.maxHeight = null;
         }
         else{
             icon.classList.add('active');
