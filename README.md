@@ -1,4 +1,4 @@
-"# FAQs-Section-of-Website-HTML-CSS-JS-" 
+# FAQs-Section-of-Website-HTML-CSS-JS- 
 
 🔗 [Live App](https://noorfatima-developer.github.io/FAQs-Section-of-Website-HTML-CSS-JS-/)  
 
